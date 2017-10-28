@@ -1,5 +1,5 @@
 # 2048AI
-The popular game 2048, coded in C++. To run, create a project in Visual Studio and move the file to the project folder. Run in Visual Studio.
+The popular game 2048, coded in C++. To run, download and open the project in Visual Studio. Run.
 
 ## Game Rules
 Check out the basic game rules on the wiki page [here](https://en.wikipedia.org/wiki/2048_(video_game)#Gameplay).
