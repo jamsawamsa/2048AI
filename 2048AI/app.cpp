@@ -15,8 +15,8 @@ string commandAdaptr(string choice);
 vector<int> getEmptyTiles();
 vector<string> getMoves();
 
-//string board[4][4] = { "","","","","","","","","","","","","","","","" };
-string board[4][4] = { "","2","4","","","","","","","","","","","","","" };
+string board[4][4] = { "","","","","","","","","","","","","","","","" };
+//string board[4][4] = { "","2","4","","","","","","","","","","","","","" };
 
 int score = 0;
 
